@@ -8,11 +8,14 @@
     "build": "vite build",
     "lint": "eslint .",
     "predeploy": "npm run build",
-    "preview": "vite preview"
+    "deploy": "gh-pages -d dist",
+    "preview": "vite preview",
+    "record": "node record.js"
   },
   "dependencies": {
     "react": "^19.3.1",
-    "react-dom": "^19.3.1"
+    "react-dom": "^19.3.1",
+    "recharts": "^3.10.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

@@ -1,0 +1,82 @@
+{
+  "columns": [
+    {
+      "key": "score",
+      "label": "段位分"
+    },
+    {
+      "key": "count",
+      "label": "总对局数"
+    },
+    {
+      "key": "avgRank",
+      "label": "平均顺位"
+    },
+    {
+      "key": "firstRate",
+      "label": "一位率"
+    },
+    {
+      "key": "noFourRate",
+      "label": "避四率"
+    }
+  ],
+  "users": [
+    {
+      "name": "zjf",
+      "score": 26.3,
+      "count": 2,
+      "avgRank": 2,
+      "firstRate": 50,
+      "noFourRate": 100
+    },
+    {
+      "name": "ysc",
+      "score": 74.3,
+      "count": 5,
+      "avgRank": 2,
+      "firstRate": 40,
+      "noFourRate": 80
+    },
+    {
+      "name": "yy",
+      "score": -70.4,
+      "count": 2,
+      "avgRank": 3.5,
+      "firstRate": 0,
+      "noFourRate": 50
+    },
+    {
+      "name": "neo",
+      "score": 19.9,
+      "count": 2,
+      "avgRank": 2.5,
+      "firstRate": 50,
+      "noFourRate": 50
+    },
+    {
+      "name": "heisenberg",
+      "score": 78.4,
+      "count": 3,
+      "avgRank": 1.67,
+      "firstRate": 33.33,
+      "noFourRate": 100
+    },
+    {
+      "name": "manbin",
+      "score": -9,
+      "count": 3,
+      "avgRank": 2.67,
+      "firstRate": 0,
+      "noFourRate": 100
+    },
+    {
+      "name": "paradox",
+      "score": -119.5,
+      "count": 3,
+      "avgRank": 3.67,
+      "firstRate": 0,
+      "noFourRate": 33.33
+    }
+  ]
+}
