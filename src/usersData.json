@@ -32,27 +32,27 @@
     },
     {
       "name": "ysc",
-      "score": 74.3,
-      "count": 5,
-      "avgRank": 2,
-      "firstRate": 40,
-      "noFourRate": 80
+      "score": 155.7,
+      "count": 19,
+      "avgRank": 2.16,
+      "firstRate": 26.31,
+      "noFourRate": 84.21
     },
     {
       "name": "yy",
-      "score": -70.4,
-      "count": 2,
-      "avgRank": 3.5,
+      "score": -176,
+      "count": 13,
+      "avgRank": 2.89,
       "firstRate": 0,
-      "noFourRate": 50
+      "noFourRate": 76.93
     },
     {
       "name": "neo",
-      "score": 19.9,
-      "count": 2,
-      "avgRank": 2.5,
-      "firstRate": 50,
-      "noFourRate": 50
+      "score": 113.3,
+      "count": 5,
+      "avgRank": 2,
+      "firstRate": 60,
+      "noFourRate": 80
     },
     {
       "name": "heisenberg",
@@ -72,11 +72,43 @@
     },
     {
       "name": "paradox",
-      "score": -119.5,
+      "score": -124.4,
+      "count": 7,
+      "avgRank": 3.14,
+      "firstRate": 14.29,
+      "noFourRate": 42.86
+    },
+    {
+      "name": "sz",
+      "score": 230.1,
+      "count": 13,
+      "avgRank": 2.04,
+      "firstRate": 53.85,
+      "noFourRate": 84.61
+    },
+    {
+      "name": "andrew",
+      "score": -175.6,
+      "count": 7,
+      "avgRank": 3.29,
+      "firstRate": 14.29,
+      "noFourRate": 42.86
+    },
+    {
+      "name": "frog",
+      "score": -100.5,
       "count": 3,
-      "avgRank": 3.67,
+      "avgRank": 3.33,
       "firstRate": 0,
       "noFourRate": 33.33
+    },
+    {
+      "name": "angel",
+      "score": -19.3,
+      "count": 1,
+      "avgRank": 3,
+      "firstRate": 0,
+      "noFourRate": 100
     }
   ]
 }
